@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/a37aa8e3-2eb8-4751-967e-56f5e8f29264.svg)](https://wakatime.com/@a37aa8e3-2eb8-4751-967e-56f5e8f29264)
+
 <!--
 **elchinbyte/elchinbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
